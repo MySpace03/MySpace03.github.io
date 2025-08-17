@@ -62,7 +62,7 @@ Contributions and ideas are always welcome!
 ## 📬 Contact
 
 Have feedback, ideas, or want to collaborate?  
-Reach out via email at `[Your Email Here]` or open an issue in this repo.
+Reach out via email at `aminshavani@gmail.com` or open an issue in this repo.
 
 ---
 
